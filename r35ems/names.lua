@@ -1,0 +1,6 @@
+Citizen.CreateThread(function()
+AddTextEntry("NISSAN", "Nissan")
+AddTextEntry("r35ems", "GTR R35 '17")
+AddTextEntry("LBWALK", "Liberty Walk")
+AddTextEntry("NOWING", "No Spoiler")
+end)
